@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="h">身高</string>
+    <string name="w">體重</string>
+    <string name="res">結果</string>
+    <string name="pre">確認送出</string>
+</resources>
