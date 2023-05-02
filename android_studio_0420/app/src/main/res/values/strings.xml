@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ex1_project</string>
+    <string name="e94095059">E94095059</string>
+    <string name="e94106216">E94106216</string>
+    <string name="e94106274">E94106274</string>
+    <string name="c64096015">C64096015</string>
+    <string name="e94081628">E94081628</string>
+    <string name="engineering_science">Engineering Science</string>
+    <string name="team13">team13</string>
+    <string name="btn1">btn1</string>
+    <string name="btn2">btn2</string>
+    <string name="btn3">btn3</string>
+    <string name="btn4">btn4</string>
+    <string name="btn5">btn5</string>
+    <string name="btn6">btn6</string>
+</resources>
